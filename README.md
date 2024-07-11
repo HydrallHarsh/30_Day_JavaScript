@@ -1,4 +1,4 @@
-# :star2: 30_Day_JavaScript
+# :star2: 30-Day JavaScript
 Add my learnings from a JavaScript course 
 Welcome to my 30-day JavaScript challenge! This repository contains my progress and logs for each day of the challenge.
 
